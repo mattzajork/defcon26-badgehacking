@@ -6,6 +6,7 @@ perspective of the 'human' badge.
 ## Links
 
 [Badge to Badge Communication Bus Docs](https://github.com/Wireb/badge_bus/wiki)
+[firelizzard18's findings](https://github.com/firelizzard18/dc26-badge)
 
 ## Badges
 
